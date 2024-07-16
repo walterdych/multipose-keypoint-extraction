@@ -11,6 +11,8 @@ __pycache__/
 *.avi
 *.csv
 *.task
+*.dll
+*.exe
 # Distribution / packaging
 .Python
 build/
